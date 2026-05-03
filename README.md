@@ -1,20 +1,18 @@
 ## Hi there 👋
+🎓 MCA Student | 💻 MERN Full-Stack Developer | 📍 India
 
-<!--
-**baranwalarya/baranwalarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
 
-Here are some ideas to get you started:
+I'm a passionate Full-Stack Developer who loves building real-world web applications from scratch.
+Whether it's a real-time food delivery platform or a peer-to-peer video calling app —
+I enjoy solving complex problems and turning ideas into production-ready products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- 🔭 Currently working on **scalable MERN stack applications**
+- 🌱 Deepening my skills in **system design, WebRTC & real-time systems**
+- 💡 Love integrating third-party services like **Razorpay, Socket.io & OAuth**
+- 🧠 Practicing **DSA in Java** on LeetCode regularly
+- 🚀 Always looking for opportunities to build, collaborate and grow
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baranwal._arya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arya-baranwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baranwalarya414@gmail.com) 
 
