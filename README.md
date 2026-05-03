@@ -1,5 +1,5 @@
 ## Hey, I'm Arya Baranwal 👋
-🎓 MCA Student | 💻 MERN Full-Stack Developer | 📍 India
+🎓 MCA Student | 💻 MERN Full-Stack Developer | 📍 Kanpur
 
 ## About Me:
 
@@ -10,7 +10,7 @@ I enjoy solving complex problems and turning ideas into production-ready product
 - 🔭 Currently working on **scalable MERN stack applications**
 - 🌱 Deepening my skills in **system design, WebRTC & real-time systems**
 - 💡 Love integrating third-party services like **Razorpay, Socket.io & OAuth**
-- 🧠 Practicing **DSA in Java** on LeetCode regularly
+- 🧠 Practicing **DSA in Java**
 - 🚀 Always looking for opportunities to build, collaborate and grow
   
 ## 🌐 Socials:
