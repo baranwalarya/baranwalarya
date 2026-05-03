@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Arya Baranwal 👋
 🎓 MCA Student | 💻 MERN Full-Stack Developer | 📍 India
 
 ## About Me:
